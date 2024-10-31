@@ -16,8 +16,10 @@ A equipe do projeto é composta por universidades e empresas associadas ao setor
 ### UnB
 
 - Projeto e implementação de proteção do hardware
+- Projeto e implementação do software (App)
 - Modelagem MIL/SIL
 - Testes em Plataforma HIL (Hardware-In-the-Loop)
+
 
 ## Repositórios
 
